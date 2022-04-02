@@ -8,4 +8,4 @@
 # readme2
 # readme3
 # rídmi fór
-
+# főágban írtam
