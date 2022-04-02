@@ -4,5 +4,8 @@
 # ebéd után
 # apr2
 # helloworld
-# egymegymagmegmegegymegymag
+# egymeggymagmegmegegymeggymag
 # readme2
+# readme3
+# rídmi fór
+
